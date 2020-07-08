@@ -1,0 +1,156 @@
+a {
+  color: #11999E;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  margin: 100px auto;
+  width: 3em;
+}
+
+p {
+  line-height: 2;
+}
+
+.achievements-description {
+  text-align: justify;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFFF;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  background: #11CDD4;
+  background: linear-gradient(top,  #11CDD4,  #11999E);
+  background: -ms-linear-gradient(top,  #11CDD4,  #11999E);
+  background: -webkit-linear-gradient(top,  #11CDD4,  #11999E);
+  background: -moz-linear-gradient(top,  #11CDD4,  #11999E);
+  text-decoration: none;
+}
+
+.btn:hover {
+  color: #ffffff;
+  background: #30E3CB;
+  background: linear-gradient(top,  #30E3CB,  #2BC4AD);
+  background: -ms-linear-gradient(top,  #30E3CB,  #2BC4AD);
+  background: -webkit-linear-gradient(top,  #30E3CB,  #2BC4AD);
+  background: -moz-linear-gradient(top,  #30E3CB,  #2BC4AD);
+  text-decoration: none;
+}
+
+.contact-me {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  font-size: 10px;
+  color: #EAF6F6;
+  text-align: center;
+  margin: 20px auto;
+}
+
+.footer-link {
+  padding: 15px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.happy-feet {
+  float: left;
+  position: relative;
+  top: 30px;
+  right: 25px;
+  width: 35%;
+}
+
+.imac {
+  margin-left: 30px;
+  float: right;
+  transform: scaleX(-1);
+  width: 20%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile {
+  text-align: center;
+  width: 40%;
+  margin: auto;
+}
+
+.profile-pic {
+  border-radius: 100px;
+  margin-top: 50px;
+  width: 200px;
+  height: 200px;
+}
+
+.skill-row {
+  display: block;
+  line-height: 2;
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
